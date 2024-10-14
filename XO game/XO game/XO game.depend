@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707914962 source:c:\users\user\documents\irm\s2\c++\xo game\xo game\xo game.cpp
+	<iostream>
+	<stdlib.h>
+
